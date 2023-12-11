@@ -1,5 +1,5 @@
-### 👋 Hello! Welcome to my Github profile.
-## My name is Davi and my nickname is "Raspadinha06"! 😄
+## 👋 Hello! Welcome to my Github profile.
+### My name is Davi and my nickname is "Raspadinha06"! 😄
 
 - 💬 I'm a 21-year-old guy who wants to be better today than I was yesterday.. 
 - 🌱 I'm currently learning how to create, implement and update information systems.
@@ -13,9 +13,8 @@ while developing myself as a technology professional.
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem6.gif">
 
-![Snake animation](https://github.com/Raspadinha06/Raspadinha06/blob/output/github-contribution-grid-snake.svg)
 
-### 🔨 Technologies and Tools
+## 🔨 Technologies and Tools
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
